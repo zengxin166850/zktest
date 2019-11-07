@@ -1,0 +1,5 @@
+
+vsquid:S1450
+"_Remove the "curatorFramework" field and declare it as a local variable in the relevant methods.(ù†¶“
+jsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(à˙£Ï
+Qsquid:S1118":Add a private constructor to hide the implicit public one.(õ†ãõ

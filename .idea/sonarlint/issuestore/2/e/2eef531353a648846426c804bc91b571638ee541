@@ -1,0 +1,11 @@
+
+gsquid:CommentedOutCodeLine,"<This block of commented-out lines of code should be removed.(·ô±¶ÿÿÿÿÿ
+N
+squid:S106]"9Replace this use of System.out or System.err by a logger.(Ï£ùg
+?squid:S1148`"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¨Ÿ»óúÿÿÿÿ
+bsquid:CommentedOutCodeLine!"<This block of commented-out lines of code should be removed.(½‘Ñ³
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(½‘Ñ³
+bsquid:CommentedOutCodeLineC"<This block of commented-out lines of code should be removed.(ØîÅ×
+bsquid:CommentedOutCodeLine8"<This block of commented-out lines of code should be removed.(½‘Ñ³

@@ -1,0 +1,31 @@
+
+N
+squid:S106N"9Replace this use of System.out or System.err by a logger.(ÑÑ:
+T
+squid:S106`"9Replace this use of System.out or System.err by a logger.(·Éé¨ıÿÿÿÿ
+[squid:S2147d"DCombine this catch with the one at line 98, which has the same body.(ä ¹€
+?squid:S1148S"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1148c"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Í¯îû
+]squid:S2142R"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+]squid:S2142d"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+?squid:S1148Z"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1148e"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‰±éÿÿÿÿÿ
+?squid:S1148\"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+bsquid:CommentedOutCodeLine0"<This block of commented-out lines of code should be removed.(“¼Úó
+[squid:S2147["DCombine this catch with the one at line 89, which has the same body.(ä ¹€
+O
+squid:S106j"9Replace this use of System.out or System.err by a logger.(’Ğˆè
+T
+squid:S106K"9Replace this use of System.out or System.err by a logger.(³ÅŞ˜úÿÿÿÿ
+jsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ˆú£ì
+isquid:S3776F"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(ÿ‘¤¨
+?squid:S1148Q"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+[squid:S2147R"DCombine this catch with the one at line 80, which has the same body.(ä ¹€
+]squid:S2142["FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+bsquid:CommentedOutCodeLine@"<This block of commented-out lines of code should be removed.(ï®«
+T
+squid:S106W"9Replace this use of System.out or System.err by a logger.(¾¬´ıÿÿÿÿ
+T
+squid:S106h"9Replace this use of System.out or System.err by a logger.(ˆ«éùÿÿÿÿ

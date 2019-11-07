@@ -1,0 +1,8 @@
+
+Xsquid:S1854*":Remove this useless assignment to local variable "writer".(˜¼¨À8ÊþÍ¨ã-
+Hsquid:S1481""*Remove this unused "cache" local variable.(–Þ¹ˆ8Ä£à¨ã-
+Wsquid:S1854""9Remove this useless assignment to local variable "cache".(–Þ¹ˆ8Ä£à¨ã-
+Esquid:S2189#""Add an end condition to this loop.(˜ïˆžÿÿÿÿÿ8ÙíÍ¨ã-
+_squid:S1075"ARefactor your code to get this URI from a customizable parameter.(åø£®8£âé£ã-
+fsquid:S2095*"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(˜¼¨À8ÊþÍ¨ã-
+Isquid:S1481*"+Remove this unused "writer" local variable.(˜¼¨À8ÊþÍ¨ã-

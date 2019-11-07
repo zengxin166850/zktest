@@ -1,0 +1,11 @@
+
+jsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ˆú£ì
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ø…‚úýÿÿÿÿ
+squid:S1186+"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¬¼Œúÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(…ÃÌýÿÿÿÿ
+T
+squid:S106 "9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ
+squid:S11865"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Æí€Ëùÿÿÿÿ
+O
+squid:S106'"9Replace this use of System.out or System.err by a logger.(óþð
+]squid:S1192"FDefine a constant instead of duplicating this literal "/test" 4 times.(ÐˆÞ¯

@@ -1,0 +1,15 @@
+
+dsquid:S2095&"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(£Øè›ùÿÿÿÿ
+squid:S1186T"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(—ÈÍúùÿÿÿÿ
+?squid:S1148M"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+bsquid:CommentedOutCodeLine("<This block of commented-out lines of code should be removed.(ÿÇÔ
+?squid:S1148:"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+bsquid:CommentedOutCodeLine2"<This block of commented-out lines of code should be removed.(æµÌó
+?squid:S1148G"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+]squid:S1075"ARefactor your code to get this URI from a customizable parameter.(ÕñÁşÿÿÿÿ
+squid:S1186\"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(™šâ·üÿÿÿÿ
+squid:S1186X"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ŒÌğÃüÿÿÿÿ
+Fsquid:S2093C"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+Xsquid:S1075"ARefactor your code to get this URI from a customizable parameter.(ş–ëŸ
+T
+squid:S1067"9Replace this use of System.out or System.err by a logger.(¡Ã¨Âúÿÿÿÿ
